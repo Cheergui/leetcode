@@ -1,4 +1,5 @@
 import heapq
+from collections import deque
 
 class Solution(object):
     def maximumSafenessFactor(self, grid):
